@@ -4,8 +4,8 @@ I'm **Catherine**, nice to meet you!
 
 <p align="left">
 <a href="https://github.com/catherineelfrida">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adistianjani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adistianjani&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=catherineelfrida&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=catherineelfrida&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
